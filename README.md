@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taruncodesinc
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C++ & java
+- 👀 I’m interested in game engines
+- 🌱 I’m currently learning C++
 
 - 📫 How to reach me via Gmail
 www.rawatt046@gmail.com 
